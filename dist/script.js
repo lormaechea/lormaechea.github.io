@@ -349,7 +349,7 @@
     dateTime = (new Date()).toLocaleDateString('se');
     return terminal = new Terminal({
       prefix: "[guest@lormaechea.github.io ~]$ ",
-      greeting: "\t\t             😎   WELCOME TO MY FAKE WEB TERMINAL!  🤠            \n\t\t,---------------------------------------------------------------.\n\t\t|      Here you will find a little more info about myself ;)    |\n\t\t|---------------------------------------------------------------|\n\t\t|      Type 'help' and press ↵ Enter – A list of all the        |\n\t\t|               available commands will be displayed.           |\n\t\t`---------------------------------------------------------------'\n",
+      greeting: "\t                  😎   WELCOME TO MY FAKE WEB TERMINAL!  🤠            \n\t     ,---------------------------------------------------------------.\n\t     |      Here you will find a little more info about myself ;)    |\n\t     |---------------------------------------------------------------|\n\t     |      Type 'help' and press ↵ Enter – A list of all the        |\n\t     |               available commands will be displayed.           |\n\t     `---------------------------------------------------------------'\n",
       selector: $(".terminal-input"),
       hardDrive: {
         "lormaechea": {
