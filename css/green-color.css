@@ -1,0 +1,160 @@
+/*****************************************************************************
+  ____                                  _____ _
+ / ___|___  ___ _ __ ___   ___  ___    |_   _| |__   ___ _ __ ___   ___  ___
+| |   / _ \/ __| '_ ` _ \ / _ \/ __|_____| | | '_ \ / _ \ '_ ` _ \ / _ \/ __|
+| |__| (_) \__ \ | | | | | (_) \__ \_____| | | | | |  __/ | | | | |  __/\__ \
+ \____\___/|___/_| |_| |_|\___/|___/     |_| |_| |_|\___|_| |_| |_|\___||___/
+******************************************************************************/
+
+
+/************ Green Color Css **************************************
+    Template Name: Watson - Resume/Vcard Template
+    Author: cosmos-themes
+    Envato Profile: https://themeforest.net/user/cosmos-themes
+    version: 1.0
+    Copyright: 2018
+****************************************************************/
+
+
+.header-main .image-container .header-name:before {
+    background-color: #6ac045;
+}
+
+.page-heading h2 {
+    color: #6ac045;
+}
+
+.page-heading .icon {
+    color: #6ac045;
+}
+
+.subheading h3 {
+    border-color: #6ac045 !important;
+}
+
+.subheading h3:before,
+.subheading h3:after {
+    background-color: #6ac045;
+}
+
+.banner-section h1 span {
+    color: #6ac045;
+}
+
+.banner-section p .cd-words-wrapper b {
+    border-color: #6ac045 !important;
+}
+
+.about-info ul li span.title {
+    border-color: #6ac045 !important;
+}
+
+.btn-main {
+    border-color: #6ac045 !important;
+    color: #6ac045;
+}
+
+.btn-main:after {
+    background-color: #6ac045;
+}
+
+.services .service-item .icon {
+    color: #6ac045 !important;
+}
+
+.testimonial-item .testimonial-content:before {
+    color: #6ac045 !important;
+}
+
+ul.experience li span.line-left,
+ul.education li span.line-left {
+    background-color: #6ac045 !important;
+}
+
+ul.experience li span.line-left:before,
+ul.experience li span.line-left:after,
+ul.education li span.line-left:before,
+ul.education li span.line-left:after {
+    border-color: #6ac045 !important;
+}
+
+ul.experience .content h5,
+ul.education .content h5 {
+    color: #6ac045;
+}
+
+.progress .progress-bar {
+    background-color: #6ac045;
+}
+
+.progress .progress-bar:after {
+    border-bottom-color: #5aa839;
+}
+
+.portfolio-section .portfolio-filter ul li.active {
+    background-color: #6ac045;
+}
+
+.portfolio-section .item figure:before {
+    background-color: #6ac045;
+}
+
+.ajax-portfolio-popup .information span.title {
+    color: #6ac045;
+}
+
+.blog-section .blog-item .blog-content .cat {
+    color: #6ac045;
+}
+
+.contact-info .info-item .icon {
+    color: #6ac045;
+}
+
+blockquote {
+    border-color: #6ac045 !important;
+}
+
+.blog-page .blog-heading .cat {
+    color: #6ac045;
+}
+
+.intro-social {
+    display: block;
+    width: 100%;
+    left: 0;
+    bottom: 10.2rem;
+    font-size: 2.5rem;
+    margin: 0;
+    padding: 0;
+}
+.intro-social li {
+    display: inline-block;
+    margin: 0 20px;
+    padding: 0;
+}
+.intro-social li a, .intro-social li a:visited {
+    color: #FFFFFF;
+}
+.intro-social li a:hover, .intro-social li a:focus {
+    color: green;
+}
+
+.knowledges {
+  list-style: none;
+}
+
+.knowledges li {
+  display: inline-block;
+  background-color: #6ac045;
+  border-radius: 3px;
+  color: #000;
+  padding: 1px 10px;
+  margin: 3px 3px;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+}
+
+div.a {
+  text-indent: 25px;
+}
