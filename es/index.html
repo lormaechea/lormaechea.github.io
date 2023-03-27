@@ -86,9 +86,10 @@
 							<li><a href="#home" class="pt-link active"><span class="nav-menu-icon"><i class="lnr lnr-home"></i></span>Portada</a> </li>
 							<li><a href="#about" class="pt-link"><span class="nav-menu-icon"><i class="lnr lnr-user"></i></span>Sobre mí</a></li>
 							<li><a href="#resume" class="pt-link"><span class="nav-menu-icon"><i class="lnr lnr-license"></i></span>Trayectoria</a></li>
-							<li><a href="#projects" class="pt-link"><span class="nav-menu-icon"><i class="lnr lnr-briefcase"></i></span>Proyectos</a></li>
+							<li><a href="#resources" class="pt-link"><span class="nav-menu-icon"><i class="lnr lnr-briefcase"></i></span>Recursos</a></li>
 							<li><a href="#publications" class="pt-link"><span class="nav-menu-icon"><i class="lnr lnr-book"></i></span>Publicaciones</a></li>
 							<li><a href="#terminal" class="pt-link"><span class="nav-menu-icon"><i class="lnr lnr-code"></i></span>Terminal</a></li>
+							<li><a href="#playlists" class="pt-link"><span class="nav-menu-icon"><i class="lnr lnr-music-note"></i></span>Listas</a></li>
 						</ul>
 					</nav>
 
@@ -521,23 +522,23 @@
 
 
 				<!--Porfolio Section Start-->
-				<section id="projects" class="portfolio-section pt-page">
+				<section id="resources" class="portfolio-section pt-page">
 					<div class="section-container">
 
 						<!--Page Heading-->
 						<div class="page-heading">
 							<span class="icon"><i class="lnr lnr-briefcase"></i></span>
-							<h2>Proyectos.</h2>
+							<h2>Recursos.</h2>
 						</div>
 
 						<div class="row">
 							<!--Portfolio Filter-->
 							<div class="col-md-12 portfolio-filter text-center">
 								<ul>
-									<li class="active" data-filter="*">All</li>
-									<li data-filter=".corpus">Lingüística de Corpus</li>
-									<li data-filter=".xml">XML</li>
-									<li data-filter=".language">Herramientas</li>
+									<li class="active" data-filter="*">Todos</li>
+									<li data-filter=".tools">Herramientas</li>
+									<li data-filter=".datasets">Corpus</li>
+									<li data-filter=".projects">Proyectos</li>
 								</ul>
 							</div>
 						</div>
@@ -546,10 +547,10 @@
 						<div class="row portfolio-items mb-50">
 
 							<!--Portfolio Item-->
-							<div class="item col-lg-4 col-xs-6 corpus">
+							<div class="item col-lg-4 col-xs-6 projects">
 								<a href="http://www.tal.univ-paris3.fr/plurital/travaux-2018-2019/ppe-s2/2/PROJET-ENCADRE-BAO/home.html" target="_blank">
 									<figure>
-										<img src="../img/toolbox.jpg" alt="">
+										<img src="../img/toolbox.jpg" alt="toolbox project">
 										<figcaption>
 											<h4>Proyecto Caja de Herramientas</h4><br>
 											<p>Estudio cuantitativo centrado en la identificación de patrones morfosintácticos presentes en el periódico francés Le Monde.</p>
@@ -559,10 +560,10 @@
 							</div>
 							
 							<!--Portfolio Item-->
-							<div class="item col-lg-4 col-xs-6 xml">
+							<div class="item col-lg-4 col-xs-6 projects">
 								<a href="http://www.tal.univ-paris3.fr/plurital/travaux-2018-2019/X-DOCSTRUCT-2018-2019-S2/ORMAECHEA-SOLOPOVA/accueil.xml" target="_blank">
 									<figure>
-										<img src="../img/xml.jpg" alt="">
+										<img src="../img/xml.jpg" alt="structured documents">
 										<figcaption>
 											<h4>Documentos Estructurados</h4><br>
 											<p>Conjunto de ejercicios de programación relacionados con el lenguaje de marcado XML y la extracción de información.</p>
@@ -572,13 +573,26 @@
 							</div>
 							
 							<!--Portfolio Item-->
-							<div class="item col-lg-4 col-xs-6 language">
+							<div class="item col-lg-4 col-xs-6 tools">
 								<a href="https://github.com/lormaechea/kaldi-grammar-compiler" target="_blank">
 									<figure>
-										<img src="../img/kaldi.png" alt="">
+										<img src="../img/kaldi.png" alt="kaldi speech recognition toolkit logo">
 										<figcaption>
 											<h4>kaldi-grammar-compiler</h4><br>
 											<p>Herramienta diseñada para transformar gramáticas regulares en FST compilados.</p>
+										</figcaption>
+									</figure>
+								</a>
+							</div>
+
+							<!--Portfolio Item-->
+							<div class="item col-lg-4 col-xs-6 datasets">
+								<a href="https://yareta.unige.ch/home/detail/a2144242-e8c6-48bf-abaf-5aa2f4310113" target="_blank">
+									<figure>
+										<img src="../img/medico.jpg" alt="propicto project medico">
+										<figcaption>
+											<h4>MeDiCo (Medical Discourse Corpus)</h4><br>
+											<p>Conjunto de datos orales artificiales relacionados con el ámbito de la consulta médica.</p>
 										</figcaption>
 									</figure>
 								</a>
@@ -672,6 +686,33 @@
 										</div>
 									</div>
 								</section>
+
+				<!--Porfolio Section Start-->
+				<section id="playlists" class="about-section pt-page">
+					<div class="section-container">
+
+						<!--Page Heading-->
+						<div class="page-heading">
+							<span class="icon"><i class="lnr lnr-music-note"></i></span>
+							<h2>Listas semanales.</h2>
+						</div>
+
+						<div class="row">
+							<!--Portfolio Filter-->
+							<div class="col-md-12 portfolio-filter text-center">
+								<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1wWy6SpXo23sDAeYhNJiow?utm_source=generator&theme=0" width="33%" height="480" frameBorder="2" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+								
+								<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3BHFt4KX6YhyfspcI93YnO?utm_source=generator&theme=0" width="33%" height="480" frameBorder="2" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+								
+								<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5tzVePvd0TV9rFSVYp5Nlc?utm_source=generator&theme=0" width="33%" height="480" frameBorder="2" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+							</div>
+						</div>
+							
+						</div>
+					</div>
+				</section>
+				<!--Porfolio Section End-->
 
 							</div>
 							<!--Main End-->
