@@ -2,62 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 	<url>
 		<loc>https://luciaormaechea.com/</loc>
-		<lastmod>2023-06-21</lastmod>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://luciaormaechea.com/es/</loc>
-		<lastmod>2023-06-21</lastmod>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>0.90</priority>
 	</url>
 	<url>
 		<loc>https://luciaormaechea.com/fr/</loc>
-		<lastmod>2023-06-21</lastmod>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>0.90</priority>
 	</url>
 	<url>
-		<loc>https://luciaormaechea.com/downloads/2023_ORMAECHEA_CV.pdf</loc>
-		<lastmod>2023-06-21</lastmod>
+		<loc>https://luciaormaechea.com/it/</loc>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
+		<priority>0.90</priority>
+	</url>
+	<url>
+		<loc>https://luciaormaechea.com/downloads/2025_ORMAECHEA_CV.pdf</loc>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>0.90</priority>
 	</url>
 	<url>
 		<loc>https://luciaormaechea.com/downloads/2020_ORMAECHEA_Master_Thesis.pdf</loc>
-		<lastmod>2023-06-21</lastmod>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://luciaormaechea.com/downloads/2023_ORMAECHEA_SWISSTEXT.pdf</loc>
-		<lastmod>2023-06-21</lastmod>
+		<loc>https://luciaormaechea.com/downloads/2024_ORMAECHEA_DETERMIT_Diaporama.pdf</loc>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://luciaormaechea.com/downloads/2023_ORMAECHEA_ICNLSP_Diaporama.pdf</loc>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>https://luciaormaechea.com/downloads/2023_ORMAECHEA_SWISSTEXT_Diaporama.pdf</loc>
-		<lastmod>2023-06-21</lastmod>
-		<priority>0.80</priority>
-	</url>
-	<url>
-		<loc>https://luciaormaechea.com/downloads/2023_ORMAECHEA_EAMT.pdf</loc>
-		<lastmod>2023-06-21</lastmod>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>https://luciaormaechea.com/downloads/2022_ORMAECHEA_TALN_Diaporama.pdf</loc>
-		<lastmod>2023-06-21</lastmod>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://luciaormaechea.com/downloads/2023_ORMAECHEA_AFLS.pdf</loc>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://luciaormaechea.com/downloads/2023_ORMAECHEA_AFLS_Diaporama.pdf</loc>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>https://luciaormaechea.com/downloads/2022_ORMAECHEA_ESSLLI_Diaporama.pdf</loc>
-		<lastmod>2023-06-21</lastmod>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://luciaormaechea.com/downloads/2021_ORMAECHEA_TLH.pdf</loc>
-		<lastmod>2023-06-21</lastmod>
+		<loc>https://luciaormaechea.com/downloads/2024_ORMAECHEA_FTI.pdf</loc>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>https://luciaormaechea.com/downloads/2022_ORMAECHEA_ALPS.pdf</loc>
-		<lastmod>2023-06-21</lastmod>
+		<lastmod>2025-01-07T12:07:17+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 </urlset>
